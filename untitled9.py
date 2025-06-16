@@ -1,3 +1,5 @@
+#Check whether a figure is a triangle
+
 a = int(input("Enter dimension 1: "))
 b = int(input("Enter dimension 2: "))
 c = int(input("Enter dimension 3: "))
